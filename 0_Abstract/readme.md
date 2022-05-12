@@ -1,8 +1,3 @@
-# Introduction
-### Wiper is an essential component that used to wipe the raindrops or any water from the windscreen. 
-### Wipers are designed and made to clear the water from a windscreen. 
-### Most of cars have two wipers on the windscreen, one on the rear window and the other on each headlight. 
-### The wiper parts visible from outside the car are the rubber blade, the wiper arm holding the blade, a spring linkage, and parts of the wiper pivots.
 # Abstract
 ### Wiper is an essential component that used to wipe raindrops or any water from the vehicle’s windscreen. 
 ### The previous system used to activate the wiper manually and the process of pulling up the wiper is difficult to be handled.
