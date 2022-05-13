@@ -1,7 +1,8 @@
 # M3_Project
 # Wiper Control System 
 ## Introduction
-### Wiper is an essential component that used to wipe the raindrops or any water from the windscreen.
-### Wipers are designed and made to clear the water from a windscreen.
-### Most of cars have two wipers on the windscreen, one on the rear window and the other on each headlight.
-### The wiper parts visible from outside the car are the rubber blade, the wiper arm holding the blade, a spring linkage, and parts of the wiper pivots.
+### This project is all about designing a wiper control system for cars.
+### We denote intensity of rain by the frequency in which the lights alternate between the four colours.
+### The switch indicates ON/OFF 
+### We use STM32cube IDE and Qemu for emulating the operation.
+### As qemu supports only 4 LEDs and a Switch, we make use of LEDs to notify the operations.
