@@ -28,4 +28,17 @@
 ### 3 V and 5 V external application power supply.
 # WORKING PRINCIPLE
 ### Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again  the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
+# 4W's and 1H
+# QUESTION EXPLANATION
+### What? It is a wiper control system that is used to operate the wipers.
+### Who? This system can be used by anyone operating a vehicle using the wiper system.
+### When? This system can be used when the weather conditions prevent clear view of anything in front of the vehicle when driving.
+### Where? It can be used anywhere like roads in cities, deserts, etc.
+### How? First the switch is pressed to operate the wiper. Then the switch positions are changes to vary the wiper speeds.
+# HIGH LEVEL REQUIREMENTS
+## ID Description status
+### HLR01 vehicle switched ON Implemented
+### HLR02 Wiper switched ON Implemented
+### HLR03 Wiper switched OFF Implemented
+### HLR04 Car turned OFF Implemented
 
