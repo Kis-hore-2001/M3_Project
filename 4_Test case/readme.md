@@ -1,14 +1,4 @@
 # High Level Test Cases
-## Test ID	Description	Exp.i/p	Exp.o/p	Actual o/p	STATUS
-### 1	check if the BUTTTON is pressed	program execution	Microcontroller/Engine starts	LED ON(RED)	PASS
-### 2	check if the BUTTTON is pressed	program execution	WIPER starts	LED ON(BLUE)	PASS
-### 3	check if the BUTTTON is pressed	program execution	WIPER starts	LED ON(GREEN)	PASS
-### 4	check if the BUTTTON is pressed	program execution	WIPER starts	LED ON(ORANGE)	PASS
-### 5	check if the BUTTTON is pressed	-	Microcontroller/Engine stops	LED TURNED OFF	PASS
+![WhatsApp Image 2022-05-15 at 12 17 06 PM](https://user-images.githubusercontent.com/101258847/168460908-369f76de-1252-452a-9b61-30e013054a3e.jpeg)
 # Low Level Test Cases
-## Test ID	Description	Exp.i/p	Exp.o/p	Actual o/p	STATUS
-### 1	check if the BUTTTON is pressed	program execution	Microcontroller/Engine starts	LED ON(RED)	PASS
-### 2	check if the BUTTTON is pressed again	program execution	WIPER starts and speed of wiper is slow	LED ON(BLUE)	PASS
-### 3	check if the BUTTTON is pressed again	program execution	WIPER starts and speed of wiper is moderate	LED ON(GREEN)	PASS
-### 4	check if the BUTTTON is pressed again	program execution	WIPER starts and speed of wiper is good	LED ON(ORANGE)	PASS
-### 5	check if the BUTTTON is pressed again	-	Microcontroller/Engine stops	LED TURNED OFF	PASS
+![WhatsApp Image 2022-05-15 at 12 15 26 PM](https://user-images.githubusercontent.com/101258847/168460921-288586c5-c7b9-4b5b-bdde-4621dd63f03b.jpeg)
